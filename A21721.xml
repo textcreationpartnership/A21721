@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proclamation set foorth by Therle of Sussex, the Queenes Maiesties Lieuetenaunt generall in the North, declaring truely the falsehodes and vayne delusions vvherby Therles of Northumberlande and VVestmerlande, and their confederates, do abuse the Queenes Maiesties subiectes, to mayntayne their rebellious enterprises, the .xxviii. of Nouember 1569</title>
+            <title>Proclamations. 1569-11-28</title>
+            <author>England and Wales. Lieutenant General in the North.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1569</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A21721</idno>
+            <idno type="STC">STC 8022</idno>
+            <idno type="STC">ESTC S112298</idno>
+            <idno type="EEBO-CITATION">99847553</idno>
+            <idno type="PROQUEST">99847553</idno>
+            <idno type="VID">12591</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A21721)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 12591)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 455:87)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proclamation set foorth by Therle of Sussex, the Queenes Maiesties Lieuetenaunt generall in the North, declaring truely the falsehodes and vayne delusions vvherby Therles of Northumberlande and VVestmerlande, and their confederates, do abuse the Queenes Maiesties subiectes, to mayntayne their rebellious enterprises, the .xxviii. of Nouember 1569</title>
+                  <title>Proclamations. 1569-11-28</title>
+                  <author>England and Wales. Lieutenant General in the North.</author>
+                  <author>Sussex, Thomas Radcliffe, Earl of, ca. 1525-1583.</author>
+                  <author>England and Wales. Sovereign (1558-1603 : Elizabeth I). Proclamations. 1569-11-28.</author>
+               </titleStmt>
+               <extent>2 sheets   </extent>
+               <publicationStmt>
+                  <publisher>Richarde Jugge and John Cawood,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1569]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A proclamation declaring the Earls of Northumberland and Westmoreland traitors and forbidding all aid to them.</note>
+                  <note>Imprint from STC.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England --  Proclamations --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Elizabeth, 1558-1603 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-12</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proclamation">
+            <pb facs="tcp:12591:1" rendition="simple:additions"/>
+            <head>
+               <g ref="char:leaf">❧</g> A Proclamation ſet foorth by Therle <hi>of Suſſes, the Queenes Maieſties Lieuetenaunt generall in</hi> the North, declaring truely the falſebodes and vayne deluſions vvherby Therles of Northumberlande and VVeſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mer<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>de, and their confederate<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, do abuſe the Queenes Maieſties ſubiectes, to mayntayn<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their rebellious enterpriſes, the .xxviii. of No<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ember 1569.</head>
+            <p>
+               <seg rend="decorInit">W</seg>Here Cherles of Northumberlande and Weſtmerlande, with their confe<g ref="char:EOLhyphen"/>derates haue moſt vndutifully and vnnaturally conſpired to leuie warre againſt their and our moſt gratious ſoueraine Lady the Queenes Maieſtie, and thervpon haue entred into open and actuall rebellion, and to couer their wicked and deteſtable attemptes, haue abuſed and deluded many of her Maieſties ſubiectes in theſe partes, ſometymes commaun<g ref="char:EOLhyphen"/>ding them in her highneſſe name to repayre to them in warlike maner for the defence and ſuretie of her Maieſties perſon, when their intent of calling them was in deede to mainteine their horrible treaſons, and ther<g ref="char:EOLhyphen"/>by to put in perill her moſt royall perſon, whom God long preſerue, ſometymes affirming their do<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nges to be with thaduiſe and conſent of the nobilitie of this Realme, who in deede be wholly bent (as manifeſtly doth appeare) to ſpende their lyues in dutifull obedience againſt them and all other tray<g ref="char:EOLhyphen"/>tours, ſomtimes pretending for conſcience ſake to ſeeke to refourme religion, where in deede it is mani<g ref="char:EOLhyphen"/>feſtly knowen many of them neuer had care of conſcience, or euer reſpected any religion, but continued a diſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>olute lyfe, vntyll at this preſent they were driuen to pretende a popiſhe holyneſſe, to put ſome falſe colour vpon their manifeſt treaſons, directly againſt the commaundement of God in holy ſcripture, the lawes of this Realme, and the auncient prerogatiue of the imperiall crowne of Englande, ſometymes declaring that they be driuen to take this matter in hande, left otherwyſe forraine princes myght take it vpon them, to the great perill of this Realme: where in deede they not contented with the good quiet and publique adminiſtration of iuſtice, ſo long continued vnder the Queenes Maieſtie, as the lyke was neuer before in any princes tyme, haue by all the wicked meanes they could, practiſed with forrayne princes to ayde them in this wicked enterpriſe, and thereby ſought not only the manifeſt pe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="4 letters">
+                  <desc>••••</desc>
+               </gap> of our moſt gratious ſoueraigne <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>, but alſo to bryng the whole Realme to perpetuall thraldome and miſerie, vnder the ſubiection and ſlauerie of forrayne pow<g ref="char:EOLhyphen"/>ers and potentates, hoping therby to ſatiſfie ſome part of their licentious and diſſolute myndes, and ſometymes couering their naughtie intentes with a ſhewe of deſire to preſerue the ſtate of the auncient nobilitie from deſtruction, prepared (as they ſay) againſt them: where in deede it manifeſtly appea<g ref="char:EOLhyphen"/>reth, that in whole twelue yeres paſt the Queenes Maieſtie hath had ſuch care of the preſeruing of that ſtate, as from the beginning of her raigne to this houre there hath not periſhed one of that flocke, and they them ſelues who abuſe the people with theſe ſlaunderous deuiſes, haue moſt gratiouſly and libe<g ref="char:EOLhyphen"/>rally taſted of her Maieſties fauour, good countenaunce, bountie, and familier vſage, more then others dyd of their equalles, and farre aboue their deſertes, and of whom her Maieſtie had conceaued ſo good opinion, as hardly coulde ſhe of long tyme be induced to thinke that either ſuch lacke of duetie coulde enter into their heartes agaynſt their ſoueraigne, or ſuch ingratitude againſt her that had ſo liberally dealt with them, and ſo louingly vſed them, although ſhe manifeſtly knewe that ſome of them liued in daunger of her lawes, whereof ſhe gaue them to vnderſtande ſhe had good knowledge, and dyd tollerate with them in hope of their loyalties otherwa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es.</p>
+            <pb facs="tcp:12591:2" rendition="simple:additions"/>
+            <p>In conſideration whereof, we <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ho<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>as <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e of Suſſex, her Maieſties Lieutenaunt generall in the north partes, ſeeyng howe the ignora<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t people be abuſed by theſe deluſions, and knowyng what con<g ref="char:EOLhyphen"/>ſtaunt promiſes, aſſertions, &amp; othes they haue heretofore made by theyr owne mouthes to the Queenes Maieſtie, as alſo of late by her Maieſties direction to vs to be reported to her highneſſe for the continu<g ref="char:EOLhyphen"/>ounce of their truethes a loyalties to her Maieſtie: &amp; ſeing by the ſequel that all which heretofore they haue done, or preſently do, or hereafter intende to do, be but fore pretended falſhodes, to delude all ſtates<g ref="char:punc">▪</g> degrees, and perſons to ſerue their wicked purpoſes: haue thought it conuenient hereby to notifie to al her Maieſties ſubiectes their maner of dealinges<g ref="char:punc">▪</g> wherby they may manifeſtly ſee, that their principal intentes be to put in perill the perſon of our moſt gracious ſoueraigne, whom God long preſerue, to ſowe ſedition and rebellion by all the falſe meanes they may, to do their vttermoſt to put her Maieſtie in daunger of her moſt lawfull royall crowne and dignitie, to drawe foreyne nations into this Realme, to the vtter ſubuertion and perpetuall bondage of this auncient free common wealth, to ſpoyle al kind of people, wherof the whoſe countrey feeleth the preſent ſmart, and to mainteyne &amp; continue their li<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> 
+               <gap reason="illegible" resp="#OXF" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> to a<g ref="char:EOLhyphen"/>buſe all kinde of ſtates, for the furthering of their wicked intentes, and prolonging of their deteſtable doinges, which God of his iuſtice can not long<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>u<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>er to continue.</p>
+            <p>Ill whiche matters euidently appearing to the whole worlde, be ſufficient to induce all men that haue either reaſon, duetie to their ſoueraigne Ladie, or loue to their natiue countrey, and haue ben by theſe deluſions abuſed, vtterly to forſake and deteſt them and their wicked doinges, and al ſuch as haue not hitherto ben abuſed to forbeare to repayre to them, or any wayes to ayde or ſuccour them or any of theirs in theſe traiterous enterpriſes, abhominable before God, vndutifull to their ſoueraine Ladie, and moſt perilous to the quiet and proſperous ſtate of this Realme, wherein all honeſt perſons haue ly<g ref="char:EOLhyphen"/>ued from the beginning of her Maieſties raigne in freedome of their perſons, with ſuertie of lyfe, landes, and goodes, which God long continue.</p>
+            <closer>
+               <signed>T. Suſſex.</signed>
+            </closer>
+            <closer>God ſaue the Queene.</closer>
+         </div>
+      </body>
+   </text>
+</TEI>
